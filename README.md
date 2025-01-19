@@ -27,17 +27,11 @@ By analyzing these factors, the model can estimate monthly income for influencer
 
 ---
 
-## How to Run
-1. Open the `.ipynb` file in **Google Colab** or **Jupyter Notebook**.
-2. Run each code cell step by step.
-3. Check the results of the model and visualizations.
-
----
-
 ## Results
 - The model achieves a high \(R^2\) score, indicating a strong fit to the data.
-- Example visualization:  
-![Example Plot](results_plot.png)
+- Example metrics:
+  - **Mean Squared Error (MSE):** `X.XX`
+  - **R² Score:** `X.XX`
 
 ---
 
@@ -49,7 +43,7 @@ The scatter plot below shows the relationship between actual and predicted influ
 ---
 
 ## Author
-[Your Name]
+Aleksander Inglot
 
 ---
 
